@@ -1,4 +1,4 @@
-## [rsshool-cv](https://github.com/anna-osipchyk)
+## [rsshool-cv](https://github.com/anna-osipchyk/rsschool-cv/blob/gh-pages/cv.md)
 
 # Hanna Osipchyk
 ***
